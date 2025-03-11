@@ -1,1 +1,2462 @@
-[]
+[
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-bigquery",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-cloudfoundry",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-data-datastore",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-data-firestore",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-data-spanner",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-kms",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-logging",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-pubsub",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-pubsub-stream-binder",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-secretmanager",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-security-firebase",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-security-iap",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-bigquery",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-bus-pubsub",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-cloudfoundry",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-data-datastore",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-data-firestore",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-data-spanner",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-firestore",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-kms",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-logging",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-metrics",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-pubsub",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-secretmanager",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-security-firebase",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-security-iap",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-sql-mysql",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-sql-mysql-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-sql-postgres-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-sql-postgresql",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-storage",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-trace",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starter-vision",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-starters",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-storage",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-gcp-vision",
+    "NDependents": 0
+  },
+  {
+    "Name": "com.google.cloud/spring-cloud-spanner-spring-data-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "commons-beanutils",
+    "NDependents": 0
+  },
+  {
+    "Name": "net.sf.dozerdozer/dozer",
+    "NDependents": 0
+  },
+  {
+    "Name": "net.sf.dozerdozer/dozer-osgi",
+    "NDependents": 0
+  },
+  {
+    "Name": "net.sf.dozerdozer/dozer-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "net.sf.dozerdozer/dozer-proto",
+    "NDependents": 0
+  },
+  {
+    "Name": "net.sf.dozerdozer/dozer-spring",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-el",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-extras",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-faces",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-mailreader-dao",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-scripting",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-taglib",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts-tiles",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-apps",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-assembly",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-bean-validation-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-cdi-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-config-browser-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-convention-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-dwr-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-embeddedjsp-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-gxp-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-jasperreports-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-javatemplates-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-jfreechart-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-json-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-junit-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-osgi-admin-bundle",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-osgi-bundles",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-osgi-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-oval-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-pell-multipart-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-plexus-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-plugins",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-portlet-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-portlet-tiles-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-rest-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-rest-showcase",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-showcase",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-sitegraph-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-sitemesh-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-spring-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-testng-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.apache.struts/struts2-tiles-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.mybatis/mybatis-spring",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-common",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-data-rest",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-groovy",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-hateoas",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-javadoc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-kotlin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-security",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-ui",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-webflux-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-webflux-ui",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springdoc/springdoc-openapi-webmvc-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-amqp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-amqp-dist",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-rabbit",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-rabbit-junit",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-rabbit-stream",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.amqp/spring-rabbit-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.batch/spring-batch-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.batch/spring-batch-infrastructure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.batch/spring-batch-integration",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.batch/spring-batch-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/com.herodevs.nes.springframework.boot.gradle.plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/org.springframework.boot.gradle.plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-actuator",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-actuator-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-antlib",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-autoconfigure-processor",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-buildpack-platform",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-cli",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-configuration-metadata",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-configuration-processor",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-devtools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-docs",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-full-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-gradle-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-jarmode-layertools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-loader",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-loader-tools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-maven-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-properties-migrator",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-security-test-web-helloworld",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-activemq",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-actuator",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-amqp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-aop",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-artemis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-batch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-cache",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-cloud-connectors",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-cassandra",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-cassandra-reactive",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-couchbase",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-couchbase-reactive",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-elasticsearch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-jpa",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-ldap",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-mongodb",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-mongodb-reactive",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-neo4j",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-redis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-redis-reactive",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-rest",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-data-solr",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-freemarker",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-graphql",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-groovy-templates",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-hateoas",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-integration",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jersey",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jetty",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jooq",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-json",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jta-atomikos",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jta-bitronix",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-jta-narayana",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-log4j2",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-logging",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-mail",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-mobile",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-mustache",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-oauth2-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-oauth2-resource-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-quartz",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-reactor-netty",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-remote-shell",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-rsocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-security",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-social-facebook",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-social-linkedin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-social-twitter",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-thymeleaf",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-tomcat",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-undertow",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-validation",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-web-services",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-webflux",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starter-websocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-starters",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-test-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.boot/spring-boot-tools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-actuator",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-context",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-docs",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-integration-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-messaging",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-parameter-store-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-aws-secrets-manager-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-build-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-build-tools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-bus",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-bus-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-bus-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-bus-rsocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-bus-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-circuitbreaker",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-circuitbreaker-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-circuitbreaker-resilience4j",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-circuitbreaker-spring-retry",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-cloudfoundry",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-cloudfoundry-commons",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-cloudfoundry-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-cloudfoundry-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-cloudfoundry-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-commons",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-commons-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-commons-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-config-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-config-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-config-monitor",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-config-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul-binder",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-consul-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-context",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-converters",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-gradle-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-maven-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-pact",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-shade",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-spec",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-spec-groovy",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-spec-java",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-spec-kotlin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-starters",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-stub-runner",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-stub-runner-boot",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-tools",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-verifier",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-contract-wiremock",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-dependencies-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-adapter-aws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-adapter-azure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-adapter-gcp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-adapter-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-context",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-grpc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-grpc-cloudevent-ext",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-kotlin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-rsocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-function-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-gateway",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-gateway-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-gateway-mvc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-gateway-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-gateway-webflux",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-client-autoconfig",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-client-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-client-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-client-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-commons",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-configserver",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-configuration-watcher",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-controllers",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-discoveryserver",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-autoconfig",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-istio",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-leader",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-fabric8-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-kubernetes-test-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-netflix",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-netflix-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-netflix-eureka-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-netflix-eureka-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-openfeign",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-openfeign-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-openfeign-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-api",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-brave",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-instrumentation",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-tests-common",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-sleuth-zipkin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-aws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-aws-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-aws-messaging",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-aws-parameter-store-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-bootstrap",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-bus-amqp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-bus-kafka",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-bus-stream",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-circuitbreaker",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-circuitbreaker-reactor-resilience4j",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-circuitbreaker-resilience4j",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-circuitbreaker-spring-retry",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-cloudfoundry",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-consul",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-consul-all",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-consul-bus",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-consul-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-consul-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-contract-stub-runner",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-contract-stub-runner-jetty",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-contract-verifier",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-function-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-function-webflux",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-gateway",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-client-all",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-client-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-client-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-discoveryclient",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-all",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-loadbalancer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-netflix-eureka-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-netflix-eureka-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-openfeign",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-single-step-batch-job",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-sleuth",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-stream-kafka",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-stream-rabbit",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-task",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-vault-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-zookeeper",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-zookeeper-all",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-zookeeper-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-starter-zookeeper-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-kafka",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-kafka-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-kafka-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-kafka-streams",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-rabbit",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-rabbit-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-rabbit-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binder-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-binders",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-integration-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-starter-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-starter-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-test-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-stream-test-support-internal",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-task-batch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-task-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-task-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-task-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-task-stream",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-test-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-config-aws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-config-consul",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-config-databases",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-config-rabbitmq",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-vault-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-zookeeper",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-zookeeper-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-zookeeper-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-zookeeper-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.cloud/spring-cloud-zookeeper-discovery",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data.build/spring-data-build",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data.build/spring-data-build-resources",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data.build/spring-data-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-cassandra",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-cassandra-distribution",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-commons",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-couchbase",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-elasticsearch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-envers",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-batch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-boot",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-build-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-cluster-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-hbase",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-hive",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-pig",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-spark",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-sqoop2",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-store",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-hadoop-util",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-jdbc-distribution",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-jpa",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-keyvalue",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-ldap",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-mongodb",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-mongodb-distribution",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-mongodb-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-neo4j",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-redis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-relational",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-relational-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-rest-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-rest-distribution",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-rest-hal-explorer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-rest-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-rest-webmvc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-data-solr",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-batch",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-boot",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-boot-build-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-boot-cli",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-boot-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-build-tests",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-integration",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.data/spring-yarn-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.graphql/spring-graphql",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.graphql/spring-graphql-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.hateoas/spring-hateoas",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-amqp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-aws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-event",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-feed",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-file",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-ftp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-gemfire",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-groovy",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-http",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-ip",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-jms",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-jmx",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-jpa",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-kafka",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-mail",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-mongodb",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-mqtt",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-redis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-rmi",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-rsocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-scripting",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-security",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-sftp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-stomp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-stream",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-syslog",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-test-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-webflux",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-websocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-ws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-xml",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-xmpp",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-zeromq",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.integration/spring-integration-zookeeper",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.kafka/spring-kafka",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.kafka/spring-kafka-dist",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.kafka/spring-kafka-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ldap/spring-ldap-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ldap/spring-ldap-core-tiger",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ldap/spring-ldap-ldif-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ldap/spring-ldap-odm",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ldap/spring-ldap-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.plugin/spring-plugin",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.plugin/spring-plugin-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.plugin/spring-plugin-metadata",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.retry/spring-retry",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.extensions/spring-security-saml2-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.kerberos/spring-security-kerberos-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.kerberos/spring-security-kerberos-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.kerberos/spring-security-kerberos-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.kerberos/spring-security-kerberos-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.kerberos/spring-security-kerberos-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.oauth/spring-security-oauth",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.oauth/spring-security-oauth-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security.oauth/spring-security-oauth2",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-acl",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-aspects",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-cas",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-crypto",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-data",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-ldap",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-messaging",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-oauth2-client",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-oauth2-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-oauth2-jose",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-oauth2-resource-server",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-openid",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-remoting",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-rsocket",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-saml2-service-provider",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-taglibs",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.security/spring-security-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-data-mongodb",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-data-redis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-hazelcast",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.session/spring-session-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.social/spring-social-config",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.social/spring-social-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.social/spring-social-security",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.social/spring-social-twitter",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.social/spring-social-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-autoconfigure",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-cluster",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-data-common",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-data-jpa",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-data-mongodb",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-data-redis",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-kryo",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-recipes-common",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-starter",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-uml",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.statemachine/spring-statemachine-zookeeper",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.vault/spring-vault-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.vault/spring-vault-dependencies",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.vault/spring-vault-distribution",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.vault/spring-vault-parent",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.webflow/spring-binding",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.webflow/spring-faces",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.webflow/spring-js-resources",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.webflow/spring-webflow",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-ws",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-ws-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-ws-security",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-ws-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-ws-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework.ws/spring-xml",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-aop",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-aspects",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-beans",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-context",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-context-indexer",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-context-support",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-core",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-expression",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-framework-bom",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-instrument",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-instrument-tomcat",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-jcl",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-jdbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-jms",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-messaging",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-orm",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-oxm",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-r2dbc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-test",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-tx",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-web",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-webflux",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-webmvc",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-webmvc-portlet",
+    "NDependents": 0
+  },
+  {
+    "Name": "org.springframework/spring-websocket",
+    "NDependents": 0
+  }
+]
